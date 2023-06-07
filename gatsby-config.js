@@ -17,9 +17,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ChandrikaDeb',
-        short_name: 'ChandrikaDeb',
-        start_url: '/',
+        name: 'MayankKumar',
+        short_name: 'MayankKumar',
+        start_url: '/Portfolio/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
