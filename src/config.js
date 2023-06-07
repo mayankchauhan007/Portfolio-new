@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    ' mayank kumar, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
   siteUrl: 'https://chandrikadeb7.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
