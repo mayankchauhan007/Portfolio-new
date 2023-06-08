@@ -1,13 +1,11 @@
 module.exports = {
   siteTitle: 'Mayank Kumar | Software Developer',
   siteDescription:
-    'Mayank Kumar is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Mayank Kumar is a Software Developer at Amdocs, who loves learning new things.',
   siteKeywords:
     ' mayank kumar, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://mayankchauhan007.github.io/Portfolio/',
+  siteUrl: 'https://mayankchauhan007.github.io/Portfolio-new/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Mayank Kumar',
   location: 'Amroha, Uttar Pradesh, India',
   email: 'mayankchauhan20837@gmail.com',

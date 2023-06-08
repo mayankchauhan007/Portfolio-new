@@ -19,7 +19,7 @@ module.exports = {
       options: {
         name: 'MayankKumar',
         short_name: 'MayankKumar',
-        start_url: '/Portfolio/',
+        start_url: '/Portfolio-new/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
