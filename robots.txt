@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mayankchauhan007.github.io/Portfolio-new/sitemap-index.xml
+Host: https://mayankchauhan007.github.io
