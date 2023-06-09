@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: "/Portfolio-new",
   siteMetadata: {
     title: config.siteTitle,
     siteUrl: config.siteUrl,
@@ -47,7 +48,7 @@ module.exports = {
         path: `${__dirname}/content/projects`,
         name: `projects`,
       },
-    },
+    }, 
     {
       resolve: `gatsby-transformer-remark`,
       options: {
