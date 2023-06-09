@@ -1,10 +1,9 @@
-<h1> <a href="https://mayankchauhan007.github.io/Portfolio-new/" target="_blank">Live at</a> https://mayankchauhan007.github.io/Portfolio-new/ <h1>
-<div align="center">
-  ![mayankchauhan007 github io_Portfolio-new_](https://github.com/mayankchauhan007/Portfolio-new/assets/87968724/e838d481-5cd5-402d-b12a-854053c874c1)
 
+<div align="center">
+  <h1> <a href="https://mayankchauhan007.github.io/Portfolio-new/" target="_blank">Live at - </a> https://mayankchauhan007.github.io/Portfolio-new/ <h1>
 </div>
 <h1 align="center">
-  Portfolio Website Version 2
+  Portfolio Website 
 </h1>
 <p align="center">
   Portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
